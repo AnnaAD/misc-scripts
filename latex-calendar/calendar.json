@@ -1,0 +1,1452 @@
+{
+    "kind": "calendar#events",
+    "etag": "\"p32885ocsnuaog0o\"",
+    "summary": "CS210",
+    "description": "",
+    "updated": "2024-08-27T15:32:38.602Z",
+    "timeZone": "America/New_York",
+    "accessRole": "owner",
+    "defaultReminders": [],
+    "nextSyncToken": "CJCC4Zy_lYgDEJCC4Zy_lYgDGAUghujwvAIohujwvAI=",
+    "items": [
+     {
+      "kind": "calendar#event",
+      "etag": "\"3448879481382000\"",
+      "id": "3sqst701u9n02v62ibe2d0n93a",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M3Nxc3Q3MDF1OW4wMnY2MmliZTJkMG45M2EgY183YzJkOTEzZDJiNDA3YzllM2E2MWY0YzlhNDAxODk0OGZlZWU0ZDYxZDAyN2UzNzUwYTZkZTFhM2M3YzNjMTQ2QGc",
+      "created": "2024-08-23T19:02:20.000Z",
+      "updated": "2024-08-23T19:02:20.691Z",
+      "summary": "PS0 Released",
+      "creator": {
+       "email": "annaad@bu.edu"
+      },
+      "organizer": {
+       "email": "c_7c2d913d2b407c9e3a61f4c9a4018948feee4d61d027e3750a6de1a3c7c3c146@group.calendar.google.com",
+       "displayName": "CS210",
+       "self": true
+      },
+      "start": {
+       "date": "2024-09-03"
+      },
+      "end": {
+       "date": "2024-09-04"
+      },
+      "transparency": "transparent",
+      "iCalUID": "3sqst701u9n02v62ibe2d0n93a@google.com",
+      "sequence": 0,
+      "reminders": {
+       "useDefault": false
+      },
+      "eventType": "default"
+     },
+     {
+      "kind": "calendar#event",
+      "etag": "\"3448879546020000\"",
+      "id": "7kf1qki9r7ae3cvkmv1v6naoqf",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2tmMXFraTlyN2FlM2N2a212MXY2bmFvcWYgY183YzJkOTEzZDJiNDA3YzllM2E2MWY0YzlhNDAxODk0OGZlZWU0ZDYxZDAyN2UzNzUwYTZkZTFhM2M3YzNjMTQ2QGc",
+      "created": "2024-08-23T19:02:53.000Z",
+      "updated": "2024-08-23T19:02:53.010Z",
+      "summary": "PS1 Released",
+      "creator": {
+       "email": "annaad@bu.edu"
+      },
+      "organizer": {
+       "email": "c_7c2d913d2b407c9e3a61f4c9a4018948feee4d61d027e3750a6de1a3c7c3c146@group.calendar.google.com",
+       "displayName": "CS210",
+       "self": true
+      },
+      "start": {
+       "date": "2024-09-09"
+      },
+      "end": {
+       "date": "2024-09-10"
+      },
+      "transparency": "transparent",
+      "iCalUID": "7kf1qki9r7ae3cvkmv1v6naoqf@google.com",
+      "sequence": 0,
+      "reminders": {
+       "useDefault": false
+      },
+      "eventType": "default"
+     },
+     {
+      "kind": "calendar#event",
+      "etag": "\"3448879679998000\"",
+      "id": "1me5hmist34ubj2iguqiinh70r",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MW1lNWhtaXN0MzR1YmoyaWd1cWlpbmg3MHIgY183YzJkOTEzZDJiNDA3YzllM2E2MWY0YzlhNDAxODk0OGZlZWU0ZDYxZDAyN2UzNzUwYTZkZTFhM2M3YzNjMTQ2QGc",
+      "created": "2024-08-23T19:04:00.000Z",
+      "updated": "2024-08-23T19:03:59.999Z",
+      "summary": "PS1A Due",
+      "creator": {
+       "email": "annaad@bu.edu"
+      },
+      "organizer": {
+       "email": "c_7c2d913d2b407c9e3a61f4c9a4018948feee4d61d027e3750a6de1a3c7c3c146@group.calendar.google.com",
+       "displayName": "CS210",
+       "self": true
+      },
+      "start": {
+       "date": "2024-09-20"
+      },
+      "end": {
+       "date": "2024-09-21"
+      },
+      "transparency": "transparent",
+      "iCalUID": "1me5hmist34ubj2iguqiinh70r@google.com",
+      "sequence": 0,
+      "reminders": {
+       "useDefault": false
+      },
+      "eventType": "default"
+     },
+     {
+      "kind": "calendar#event",
+      "etag": "\"3448879915874000\"",
+      "id": "7a3sjn89kt4jkb88t7baf5l49t",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2Ezc2puODlrdDRqa2I4OHQ3YmFmNWw0OXQgY183YzJkOTEzZDJiNDA3YzllM2E2MWY0YzlhNDAxODk0OGZlZWU0ZDYxZDAyN2UzNzUwYTZkZTFhM2M3YzNjMTQ2QGc",
+      "created": "2024-08-23T19:05:37.000Z",
+      "updated": "2024-08-23T19:05:57.937Z",
+      "summary": "Exam 1",
+      "creator": {
+       "email": "annaad@bu.edu"
+      },
+      "organizer": {
+       "email": "c_7c2d913d2b407c9e3a61f4c9a4018948feee4d61d027e3750a6de1a3c7c3c146@group.calendar.google.com",
+       "displayName": "CS210",
+       "self": true
+      },
+      "start": {
+       "date": "2024-10-03"
+      },
+      "end": {
+       "date": "2024-10-04"
+      },
+      "transparency": "transparent",
+      "iCalUID": "7a3sjn89kt4jkb88t7baf5l49t@google.com",
+      "sequence": 1,
+      "reminders": {
+       "useDefault": false
+      },
+      "eventType": "default"
+     },
+     {
+      "kind": "calendar#event",
+      "etag": "\"3448879968466000\"",
+      "id": "43kdl45ghg87dovd7v0s0j95d7",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NDNrZGw0NWdoZzg3ZG92ZDd2MHMwajk1ZDcgY183YzJkOTEzZDJiNDA3YzllM2E2MWY0YzlhNDAxODk0OGZlZWU0ZDYxZDAyN2UzNzUwYTZkZTFhM2M3YzNjMTQ2QGc",
+      "created": "2024-08-23T19:06:24.000Z",
+      "updated": "2024-08-23T19:06:24.233Z",
+      "summary": "PS1B + PS1C Due",
+      "creator": {
+       "email": "annaad@bu.edu"
+      },
+      "organizer": {
+       "email": "c_7c2d913d2b407c9e3a61f4c9a4018948feee4d61d027e3750a6de1a3c7c3c146@group.calendar.google.com",
+       "displayName": "CS210",
+       "self": true
+      },
+      "start": {
+       "date": "2024-09-27"
+      },
+      "end": {
+       "date": "2024-09-28"
+      },
+      "transparency": "transparent",
+      "iCalUID": "43kdl45ghg87dovd7v0s0j95d7@google.com",
+      "sequence": 0,
+      "reminders": {
+       "useDefault": false
+      },
+      "eventType": "default"
+     },
+     {
+      "kind": "calendar#event",
+      "etag": "\"3448880128008000\"",
+      "id": "0f64kbggvjefnccglkcv2qjlae",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGY2NGtiZ2d2amVmbmNjZ2xrY3YycWpsYWUgY183YzJkOTEzZDJiNDA3YzllM2E2MWY0YzlhNDAxODk0OGZlZWU0ZDYxZDAyN2UzNzUwYTZkZTFhM2M3YzNjMTQ2QGc",
+      "created": "2024-08-23T19:07:44.000Z",
+      "updated": "2024-08-23T19:07:44.004Z",
+      "summary": "PS2 Released",
+      "creator": {
+       "email": "annaad@bu.edu"
+      },
+      "organizer": {
+       "email": "c_7c2d913d2b407c9e3a61f4c9a4018948feee4d61d027e3750a6de1a3c7c3c146@group.calendar.google.com",
+       "displayName": "CS210",
+       "self": true
+      },
+      "start": {
+       "date": "2024-09-30"
+      },
+      "end": {
+       "date": "2024-10-01"
+      },
+      "transparency": "transparent",
+      "iCalUID": "0f64kbggvjefnccglkcv2qjlae@google.com",
+      "sequence": 0,
+      "reminders": {
+       "useDefault": false
+      },
+      "eventType": "default"
+     },
+     {
+      "kind": "calendar#event",
+      "etag": "\"3448880480968000\"",
+      "id": "2kkjrrgfg558vk4v788kc6ds3j",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MmtranJyZ2ZnNTU4dms0djc4OGtjNmRzM2ogY183YzJkOTEzZDJiNDA3YzllM2E2MWY0YzlhNDAxODk0OGZlZWU0ZDYxZDAyN2UzNzUwYTZkZTFhM2M3YzNjMTQ2QGc",
+      "created": "2024-08-23T19:10:40.000Z",
+      "updated": "2024-08-23T19:10:40.484Z",
+      "summary": "PS2 Due",
+      "creator": {
+       "email": "annaad@bu.edu"
+      },
+      "organizer": {
+       "email": "c_7c2d913d2b407c9e3a61f4c9a4018948feee4d61d027e3750a6de1a3c7c3c146@group.calendar.google.com",
+       "displayName": "CS210",
+       "self": true
+      },
+      "start": {
+       "date": "2024-10-11"
+      },
+      "end": {
+       "date": "2024-10-12"
+      },
+      "transparency": "transparent",
+      "iCalUID": "2kkjrrgfg558vk4v788kc6ds3j@google.com",
+      "sequence": 0,
+      "reminders": {
+       "useDefault": false
+      },
+      "eventType": "default"
+     },
+     {
+      "kind": "calendar#event",
+      "etag": "\"3448880552928000\"",
+      "id": "4h1du12gn6njo3t5kq3gr27vvh",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGgxZHUxMmduNm5qbzN0NWtxM2dyMjd2dmggY183YzJkOTEzZDJiNDA3YzllM2E2MWY0YzlhNDAxODk0OGZlZWU0ZDYxZDAyN2UzNzUwYTZkZTFhM2M3YzNjMTQ2QGc",
+      "created": "2024-08-23T19:11:16.000Z",
+      "updated": "2024-08-23T19:11:16.464Z",
+      "summary": "PS3 Released",
+      "creator": {
+       "email": "annaad@bu.edu"
+      },
+      "organizer": {
+       "email": "c_7c2d913d2b407c9e3a61f4c9a4018948feee4d61d027e3750a6de1a3c7c3c146@group.calendar.google.com",
+       "displayName": "CS210",
+       "self": true
+      },
+      "start": {
+       "date": "2024-10-15"
+      },
+      "end": {
+       "date": "2024-10-16"
+      },
+      "transparency": "transparent",
+      "iCalUID": "4h1du12gn6njo3t5kq3gr27vvh@google.com",
+      "sequence": 0,
+      "reminders": {
+       "useDefault": false
+      },
+      "eventType": "default"
+     },
+     {
+      "kind": "calendar#event",
+      "etag": "\"3448880686050000\"",
+      "id": "7tu7lor8dva63si80hanu48607",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N3R1N2xvcjhkdmE2M3NpODBoYW51NDg2MDcgY183YzJkOTEzZDJiNDA3YzllM2E2MWY0YzlhNDAxODk0OGZlZWU0ZDYxZDAyN2UzNzUwYTZkZTFhM2M3YzNjMTQ2QGc",
+      "created": "2024-08-23T19:12:23.000Z",
+      "updated": "2024-08-23T19:12:23.025Z",
+      "summary": "PS4 Released",
+      "creator": {
+       "email": "annaad@bu.edu"
+      },
+      "organizer": {
+       "email": "c_7c2d913d2b407c9e3a61f4c9a4018948feee4d61d027e3750a6de1a3c7c3c146@group.calendar.google.com",
+       "displayName": "CS210",
+       "self": true
+      },
+      "start": {
+       "date": "2024-10-29"
+      },
+      "end": {
+       "date": "2024-10-30"
+      },
+      "transparency": "transparent",
+      "iCalUID": "7tu7lor8dva63si80hanu48607@google.com",
+      "sequence": 0,
+      "reminders": {
+       "useDefault": false
+      },
+      "eventType": "default"
+     },
+     {
+      "kind": "calendar#event",
+      "etag": "\"3448880770488000\"",
+      "id": "52c6co9tc4dgu0q97oibv9h2ik",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NTJjNmNvOXRjNGRndTBxOTdvaWJ2OWgyaWsgY183YzJkOTEzZDJiNDA3YzllM2E2MWY0YzlhNDAxODk0OGZlZWU0ZDYxZDAyN2UzNzUwYTZkZTFhM2M3YzNjMTQ2QGc",
+      "created": "2024-08-23T19:13:05.000Z",
+      "updated": "2024-08-23T19:13:05.244Z",
+      "summary": "PS3 Due",
+      "creator": {
+       "email": "annaad@bu.edu"
+      },
+      "organizer": {
+       "email": "c_7c2d913d2b407c9e3a61f4c9a4018948feee4d61d027e3750a6de1a3c7c3c146@group.calendar.google.com",
+       "displayName": "CS210",
+       "self": true
+      },
+      "start": {
+       "date": "2024-11-01"
+      },
+      "end": {
+       "date": "2024-11-02"
+      },
+      "transparency": "transparent",
+      "iCalUID": "52c6co9tc4dgu0q97oibv9h2ik@google.com",
+      "sequence": 0,
+      "reminders": {
+       "useDefault": false
+      },
+      "eventType": "default"
+     },
+     {
+      "kind": "calendar#event",
+      "etag": "\"3448880856764000\"",
+      "id": "1ngvudipvblimv22t5pide3k79",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MW5ndnVkaXB2YmxpbXYyMnQ1cGlkZTNrNzkgY183YzJkOTEzZDJiNDA3YzllM2E2MWY0YzlhNDAxODk0OGZlZWU0ZDYxZDAyN2UzNzUwYTZkZTFhM2M3YzNjMTQ2QGc",
+      "created": "2024-08-23T19:13:48.000Z",
+      "updated": "2024-08-23T19:13:48.382Z",
+      "summary": "Exam 2",
+      "creator": {
+       "email": "annaad@bu.edu"
+      },
+      "organizer": {
+       "email": "c_7c2d913d2b407c9e3a61f4c9a4018948feee4d61d027e3750a6de1a3c7c3c146@group.calendar.google.com",
+       "displayName": "CS210",
+       "self": true
+      },
+      "start": {
+       "date": "2024-11-07"
+      },
+      "end": {
+       "date": "2024-11-08"
+      },
+      "transparency": "transparent",
+      "iCalUID": "1ngvudipvblimv22t5pide3k79@google.com",
+      "sequence": 0,
+      "reminders": {
+       "useDefault": false
+      },
+      "eventType": "default"
+     },
+     {
+      "kind": "calendar#event",
+      "etag": "\"3448880986444000\"",
+      "id": "6dud5vtlctgeqchisi9bei4a41",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NmR1ZDV2dGxjdGdlcWNoaXNpOWJlaTRhNDEgY183YzJkOTEzZDJiNDA3YzllM2E2MWY0YzlhNDAxODk0OGZlZWU0ZDYxZDAyN2UzNzUwYTZkZTFhM2M3YzNjMTQ2QGc",
+      "created": "2024-08-23T19:14:53.000Z",
+      "updated": "2024-08-23T19:14:53.222Z",
+      "summary": "PS5 Released",
+      "creator": {
+       "email": "annaad@bu.edu"
+      },
+      "organizer": {
+       "email": "c_7c2d913d2b407c9e3a61f4c9a4018948feee4d61d027e3750a6de1a3c7c3c146@group.calendar.google.com",
+       "displayName": "CS210",
+       "self": true
+      },
+      "start": {
+       "date": "2024-11-18"
+      },
+      "end": {
+       "date": "2024-11-19"
+      },
+      "transparency": "transparent",
+      "iCalUID": "6dud5vtlctgeqchisi9bei4a41@google.com",
+      "sequence": 0,
+      "reminders": {
+       "useDefault": false
+      },
+      "eventType": "default"
+     },
+     {
+      "kind": "calendar#event",
+      "etag": "\"3448881091188000\"",
+      "id": "4jb19kqrml3qvib9qebn352ogt",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGpiMTlrcXJtbDNxdmliOXFlYm4zNTJvZ3QgY183YzJkOTEzZDJiNDA3YzllM2E2MWY0YzlhNDAxODk0OGZlZWU0ZDYxZDAyN2UzNzUwYTZkZTFhM2M3YzNjMTQ2QGc",
+      "created": "2024-08-23T19:15:45.000Z",
+      "updated": "2024-08-23T19:15:45.594Z",
+      "summary": "PS4 Due",
+      "creator": {
+       "email": "annaad@bu.edu"
+      },
+      "organizer": {
+       "email": "c_7c2d913d2b407c9e3a61f4c9a4018948feee4d61d027e3750a6de1a3c7c3c146@group.calendar.google.com",
+       "displayName": "CS210",
+       "self": true
+      },
+      "start": {
+       "date": "2024-11-15"
+      },
+      "end": {
+       "date": "2024-11-16"
+      },
+      "transparency": "transparent",
+      "iCalUID": "4jb19kqrml3qvib9qebn352ogt@google.com",
+      "sequence": 0,
+      "reminders": {
+       "useDefault": false
+      },
+      "eventType": "default"
+     },
+     {
+      "kind": "calendar#event",
+      "etag": "\"3448881236260000\"",
+      "id": "79c1kbe92qm80t2r7jc74uivf9",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NzljMWtiZTkycW04MHQycjdqYzc0dWl2ZjkgY183YzJkOTEzZDJiNDA3YzllM2E2MWY0YzlhNDAxODk0OGZlZWU0ZDYxZDAyN2UzNzUwYTZkZTFhM2M3YzNjMTQ2QGc",
+      "created": "2024-08-23T19:16:58.000Z",
+      "updated": "2024-08-23T19:16:58.130Z",
+      "summary": "PS5 Due",
+      "creator": {
+       "email": "annaad@bu.edu"
+      },
+      "organizer": {
+       "email": "c_7c2d913d2b407c9e3a61f4c9a4018948feee4d61d027e3750a6de1a3c7c3c146@group.calendar.google.com",
+       "displayName": "CS210",
+       "self": true
+      },
+      "start": {
+       "date": "2024-12-06"
+      },
+      "end": {
+       "date": "2024-12-07"
+      },
+      "transparency": "transparent",
+      "iCalUID": "79c1kbe92qm80t2r7jc74uivf9@google.com",
+      "sequence": 0,
+      "reminders": {
+       "useDefault": false
+      },
+      "eventType": "default"
+     },
+     {
+      "kind": "calendar#event",
+      "etag": "\"3449545354238000\"",
+      "id": "37qm6gvu7efab1ba8qfo2n6nts",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MzdxbTZndnU3ZWZhYjFiYThxZm8ybjZudHNfMjAyNDA5MDNUMTMzMDAwWiBjXzdjMmQ5MTNkMmI0MDdjOWUzYTYxZjRjOWE0MDE4OTQ4ZmVlZTRkNjFkMDI3ZTM3NTBhNmRlMWEzYzdjM2MxNDZAZw",
+      "created": "2024-08-23T19:21:09.000Z",
+      "updated": "2024-08-27T15:31:17.119Z",
+      "summary": "Lecture",
+      "creator": {
+       "email": "annaad@bu.edu"
+      },
+      "organizer": {
+       "email": "c_7c2d913d2b407c9e3a61f4c9a4018948feee4d61d027e3750a6de1a3c7c3c146@group.calendar.google.com",
+       "displayName": "CS210",
+       "self": true
+      },
+      "start": {
+       "dateTime": "2024-09-03T09:30:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "end": {
+       "dateTime": "2024-09-03T10:45:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "recurrence": [
+       "RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20241211T045959Z;BYDAY=TU,TH"
+      ],
+      "iCalUID": "37qm6gvu7efab1ba8qfo2n6nts@google.com",
+      "sequence": 0,
+      "reminders": {
+       "useDefault": true
+      },
+      "eventType": "default"
+     },
+     {
+      "kind": "calendar#event",
+      "etag": "\"3449545354238000\"",
+      "id": "37qm6gvu7efab1ba8qfo2n6nts_20240903T133000Z",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MzdxbTZndnU3ZWZhYjFiYThxZm8ybjZudHNfMjAyNDA5MDNUMTMzMDAwWiBjXzdjMmQ5MTNkMmI0MDdjOWUzYTYxZjRjOWE0MDE4OTQ4ZmVlZTRkNjFkMDI3ZTM3NTBhNmRlMWEzYzdjM2MxNDZAZw",
+      "created": "2024-08-23T19:21:09.000Z",
+      "updated": "2024-08-27T15:31:17.119Z",
+      "summary": "L1: Syllabus/Intro",
+      "creator": {
+       "email": "annaad@bu.edu"
+      },
+      "organizer": {
+       "email": "c_7c2d913d2b407c9e3a61f4c9a4018948feee4d61d027e3750a6de1a3c7c3c146@group.calendar.google.com",
+       "displayName": "CS210",
+       "self": true
+      },
+      "start": {
+       "dateTime": "2024-09-03T09:30:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "end": {
+       "dateTime": "2024-09-03T10:45:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "recurringEventId": "37qm6gvu7efab1ba8qfo2n6nts",
+      "originalStartTime": {
+       "dateTime": "2024-09-03T09:30:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "iCalUID": "37qm6gvu7efab1ba8qfo2n6nts@google.com",
+      "sequence": 0,
+      "reminders": {
+       "useDefault": true
+      },
+      "eventType": "default"
+     },
+     {
+      "kind": "calendar#event",
+      "etag": "\"3449545354238000\"",
+      "id": "37qm6gvu7efab1ba8qfo2n6nts_20240905T133000Z",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MzdxbTZndnU3ZWZhYjFiYThxZm8ybjZudHNfMjAyNDA5MDVUMTMzMDAwWiBjXzdjMmQ5MTNkMmI0MDdjOWUzYTYxZjRjOWE0MDE4OTQ4ZmVlZTRkNjFkMDI3ZTM3NTBhNmRlMWEzYzdjM2MxNDZAZw",
+      "created": "2024-08-23T19:21:09.000Z",
+      "updated": "2024-08-27T15:31:17.119Z",
+      "summary": "L2: Logic Gates",
+      "creator": {
+       "email": "annaad@bu.edu"
+      },
+      "organizer": {
+       "email": "c_7c2d913d2b407c9e3a61f4c9a4018948feee4d61d027e3750a6de1a3c7c3c146@group.calendar.google.com",
+       "displayName": "CS210",
+       "self": true
+      },
+      "start": {
+       "dateTime": "2024-09-05T09:30:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "end": {
+       "dateTime": "2024-09-05T10:45:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "recurringEventId": "37qm6gvu7efab1ba8qfo2n6nts",
+      "originalStartTime": {
+       "dateTime": "2024-09-05T09:30:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "iCalUID": "37qm6gvu7efab1ba8qfo2n6nts@google.com",
+      "sequence": 0,
+      "reminders": {
+       "useDefault": true
+      },
+      "eventType": "default"
+     },
+     {
+      "kind": "calendar#event",
+      "etag": "\"3449545354238000\"",
+      "id": "37qm6gvu7efab1ba8qfo2n6nts_20240910T133000Z",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MzdxbTZndnU3ZWZhYjFiYThxZm8ybjZudHNfMjAyNDA5MTBUMTMzMDAwWiBjXzdjMmQ5MTNkMmI0MDdjOWUzYTYxZjRjOWE0MDE4OTQ4ZmVlZTRkNjFkMDI3ZTM3NTBhNmRlMWEzYzdjM2MxNDZAZw",
+      "created": "2024-08-23T19:21:09.000Z",
+      "updated": "2024-08-27T15:31:17.119Z",
+      "summary": "L3:Arithmetic and Logic Gates",
+      "creator": {
+       "email": "annaad@bu.edu"
+      },
+      "organizer": {
+       "email": "c_7c2d913d2b407c9e3a61f4c9a4018948feee4d61d027e3750a6de1a3c7c3c146@group.calendar.google.com",
+       "displayName": "CS210",
+       "self": true
+      },
+      "start": {
+       "dateTime": "2024-09-10T09:30:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "end": {
+       "dateTime": "2024-09-10T10:45:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "recurringEventId": "37qm6gvu7efab1ba8qfo2n6nts",
+      "originalStartTime": {
+       "dateTime": "2024-09-10T09:30:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "iCalUID": "37qm6gvu7efab1ba8qfo2n6nts@google.com",
+      "sequence": 0,
+      "reminders": {
+       "useDefault": true
+      },
+      "eventType": "default"
+     },
+     {
+      "kind": "calendar#event",
+      "etag": "\"3449545354238000\"",
+      "id": "37qm6gvu7efab1ba8qfo2n6nts_20240912T133000Z",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MzdxbTZndnU3ZWZhYjFiYThxZm8ybjZudHNfMjAyNDA5MTJUMTMzMDAwWiBjXzdjMmQ5MTNkMmI0MDdjOWUzYTYxZjRjOWE0MDE4OTQ4ZmVlZTRkNjFkMDI3ZTM3NTBhNmRlMWEzYzdjM2MxNDZAZw",
+      "created": "2024-08-23T19:21:09.000Z",
+      "updated": "2024-08-27T15:31:17.119Z",
+      "summary": "L4: Control Circuits and Storage Circuits",
+      "creator": {
+       "email": "annaad@bu.edu"
+      },
+      "organizer": {
+       "email": "c_7c2d913d2b407c9e3a61f4c9a4018948feee4d61d027e3750a6de1a3c7c3c146@group.calendar.google.com",
+       "displayName": "CS210",
+       "self": true
+      },
+      "start": {
+       "dateTime": "2024-09-12T09:30:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "end": {
+       "dateTime": "2024-09-12T10:45:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "recurringEventId": "37qm6gvu7efab1ba8qfo2n6nts",
+      "originalStartTime": {
+       "dateTime": "2024-09-12T09:30:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "iCalUID": "37qm6gvu7efab1ba8qfo2n6nts@google.com",
+      "sequence": 0,
+      "reminders": {
+       "useDefault": true
+      },
+      "eventType": "default"
+     },
+     {
+      "kind": "calendar#event",
+      "etag": "\"3449545354238000\"",
+      "id": "37qm6gvu7efab1ba8qfo2n6nts_20240917T133000Z",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MzdxbTZndnU3ZWZhYjFiYThxZm8ybjZudHNfMjAyNDA5MTdUMTMzMDAwWiBjXzdjMmQ5MTNkMmI0MDdjOWUzYTYxZjRjOWE0MDE4OTQ4ZmVlZTRkNjFkMDI3ZTM3NTBhNmRlMWEzYzdjM2MxNDZAZw",
+      "created": "2024-08-23T19:21:09.000Z",
+      "updated": "2024-08-27T15:31:17.119Z",
+      "summary": "L5: Instruction Set Architecture",
+      "creator": {
+       "email": "annaad@bu.edu"
+      },
+      "organizer": {
+       "email": "c_7c2d913d2b407c9e3a61f4c9a4018948feee4d61d027e3750a6de1a3c7c3c146@group.calendar.google.com",
+       "displayName": "CS210",
+       "self": true
+      },
+      "start": {
+       "dateTime": "2024-09-17T09:30:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "end": {
+       "dateTime": "2024-09-17T10:45:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "recurringEventId": "37qm6gvu7efab1ba8qfo2n6nts",
+      "originalStartTime": {
+       "dateTime": "2024-09-17T09:30:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "iCalUID": "37qm6gvu7efab1ba8qfo2n6nts@google.com",
+      "sequence": 0,
+      "reminders": {
+       "useDefault": true
+      },
+      "eventType": "default"
+     },
+     {
+      "kind": "calendar#event",
+      "etag": "\"3449545354238000\"",
+      "id": "37qm6gvu7efab1ba8qfo2n6nts_20240919T133000Z",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MzdxbTZndnU3ZWZhYjFiYThxZm8ybjZudHNfMjAyNDA5MTlUMTMzMDAwWiBjXzdjMmQ5MTNkMmI0MDdjOWUzYTYxZjRjOWE0MDE4OTQ4ZmVlZTRkNjFkMDI3ZTM3NTBhNmRlMWEzYzdjM2MxNDZAZw",
+      "created": "2024-08-23T19:21:09.000Z",
+      "updated": "2024-08-27T15:31:17.119Z",
+      "summary": "L6: Building a Processor",
+      "creator": {
+       "email": "annaad@bu.edu"
+      },
+      "organizer": {
+       "email": "c_7c2d913d2b407c9e3a61f4c9a4018948feee4d61d027e3750a6de1a3c7c3c146@group.calendar.google.com",
+       "displayName": "CS210",
+       "self": true
+      },
+      "start": {
+       "dateTime": "2024-09-19T09:30:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "end": {
+       "dateTime": "2024-09-19T10:45:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "recurringEventId": "37qm6gvu7efab1ba8qfo2n6nts",
+      "originalStartTime": {
+       "dateTime": "2024-09-19T09:30:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "iCalUID": "37qm6gvu7efab1ba8qfo2n6nts@google.com",
+      "sequence": 0,
+      "reminders": {
+       "useDefault": true
+      },
+      "eventType": "default"
+     },
+     {
+      "kind": "calendar#event",
+      "etag": "\"3449545354238000\"",
+      "id": "37qm6gvu7efab1ba8qfo2n6nts_20240924T133000Z",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MzdxbTZndnU3ZWZhYjFiYThxZm8ybjZudHNfMjAyNDA5MjRUMTMzMDAwWiBjXzdjMmQ5MTNkMmI0MDdjOWUzYTYxZjRjOWE0MDE4OTQ4ZmVlZTRkNjFkMDI3ZTM3NTBhNmRlMWEzYzdjM2MxNDZAZw",
+      "created": "2024-08-23T19:21:09.000Z",
+      "updated": "2024-08-27T15:31:17.119Z",
+      "summary": "L7: Intro to x86 and Exam Review",
+      "creator": {
+       "email": "annaad@bu.edu"
+      },
+      "organizer": {
+       "email": "c_7c2d913d2b407c9e3a61f4c9a4018948feee4d61d027e3750a6de1a3c7c3c146@group.calendar.google.com",
+       "displayName": "CS210",
+       "self": true
+      },
+      "start": {
+       "dateTime": "2024-09-24T09:30:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "end": {
+       "dateTime": "2024-09-24T10:45:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "recurringEventId": "37qm6gvu7efab1ba8qfo2n6nts",
+      "originalStartTime": {
+       "dateTime": "2024-09-24T09:30:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "iCalUID": "37qm6gvu7efab1ba8qfo2n6nts@google.com",
+      "sequence": 0,
+      "reminders": {
+       "useDefault": true
+      },
+      "eventType": "default"
+     },
+     {
+      "kind": "calendar#event",
+      "etag": "\"3449545354238000\"",
+      "id": "37qm6gvu7efab1ba8qfo2n6nts_20240926T133000Z",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MzdxbTZndnU3ZWZhYjFiYThxZm8ybjZudHNfMjAyNDA5MjZUMTMzMDAwWiBjXzdjMmQ5MTNkMmI0MDdjOWUzYTYxZjRjOWE0MDE4OTQ4ZmVlZTRkNjFkMDI3ZTM3NTBhNmRlMWEzYzdjM2MxNDZAZw",
+      "created": "2024-08-23T19:21:09.000Z",
+      "updated": "2024-08-27T15:31:17.119Z",
+      "summary": "L8: Unix, Terminal and OS",
+      "creator": {
+       "email": "annaad@bu.edu"
+      },
+      "organizer": {
+       "email": "c_7c2d913d2b407c9e3a61f4c9a4018948feee4d61d027e3750a6de1a3c7c3c146@group.calendar.google.com",
+       "displayName": "CS210",
+       "self": true
+      },
+      "start": {
+       "dateTime": "2024-09-26T09:30:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "end": {
+       "dateTime": "2024-09-26T10:45:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "recurringEventId": "37qm6gvu7efab1ba8qfo2n6nts",
+      "originalStartTime": {
+       "dateTime": "2024-09-26T09:30:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "iCalUID": "37qm6gvu7efab1ba8qfo2n6nts@google.com",
+      "sequence": 0,
+      "reminders": {
+       "useDefault": true
+      },
+      "eventType": "default"
+     },
+     {
+      "kind": "calendar#event",
+      "etag": "\"3449545354238000\"",
+      "id": "37qm6gvu7efab1ba8qfo2n6nts_20241001T133000Z",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MzdxbTZndnU3ZWZhYjFiYThxZm8ybjZudHNfMjAyNDEwMDFUMTMzMDAwWiBjXzdjMmQ5MTNkMmI0MDdjOWUzYTYxZjRjOWE0MDE4OTQ4ZmVlZTRkNjFkMDI3ZTM3NTBhNmRlMWEzYzdjM2MxNDZAZw",
+      "created": "2024-08-23T19:21:09.000Z",
+      "updated": "2024-08-27T15:31:17.119Z",
+      "summary": "L9: Github and Writing first Assembly",
+      "creator": {
+       "email": "annaad@bu.edu"
+      },
+      "organizer": {
+       "email": "c_7c2d913d2b407c9e3a61f4c9a4018948feee4d61d027e3750a6de1a3c7c3c146@group.calendar.google.com",
+       "displayName": "CS210",
+       "self": true
+      },
+      "start": {
+       "dateTime": "2024-10-01T09:30:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "end": {
+       "dateTime": "2024-10-01T10:45:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "recurringEventId": "37qm6gvu7efab1ba8qfo2n6nts",
+      "originalStartTime": {
+       "dateTime": "2024-10-01T09:30:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "iCalUID": "37qm6gvu7efab1ba8qfo2n6nts@google.com",
+      "sequence": 0,
+      "reminders": {
+       "useDefault": true
+      },
+      "eventType": "default"
+     },
+     {
+      "kind": "calendar#event",
+      "etag": "\"3449545354238000\"",
+      "id": "37qm6gvu7efab1ba8qfo2n6nts_20241003T133000Z",
+      "status": "cancelled",
+      "recurringEventId": "37qm6gvu7efab1ba8qfo2n6nts",
+      "originalStartTime": {
+       "dateTime": "2024-10-03T09:30:00-04:00",
+       "timeZone": "America/New_York"
+      }
+     },
+     {
+      "kind": "calendar#event",
+      "etag": "\"3449545354238000\"",
+      "id": "37qm6gvu7efab1ba8qfo2n6nts_20241008T133000Z",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MzdxbTZndnU3ZWZhYjFiYThxZm8ybjZudHNfMjAyNDEwMDhUMTMzMDAwWiBjXzdjMmQ5MTNkMmI0MDdjOWUzYTYxZjRjOWE0MDE4OTQ4ZmVlZTRkNjFkMDI3ZTM3NTBhNmRlMWEzYzdjM2MxNDZAZw",
+      "created": "2024-08-23T19:21:09.000Z",
+      "updated": "2024-08-27T15:31:17.119Z",
+      "summary": "L11: Operations and Data Types",
+      "creator": {
+       "email": "annaad@bu.edu"
+      },
+      "organizer": {
+       "email": "c_7c2d913d2b407c9e3a61f4c9a4018948feee4d61d027e3750a6de1a3c7c3c146@group.calendar.google.com",
+       "displayName": "CS210",
+       "self": true
+      },
+      "start": {
+       "dateTime": "2024-10-08T09:30:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "end": {
+       "dateTime": "2024-10-08T10:45:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "recurringEventId": "37qm6gvu7efab1ba8qfo2n6nts",
+      "originalStartTime": {
+       "dateTime": "2024-10-08T09:30:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "iCalUID": "37qm6gvu7efab1ba8qfo2n6nts@google.com",
+      "sequence": 0,
+      "reminders": {
+       "useDefault": true
+      },
+      "eventType": "default"
+     },
+     {
+      "kind": "calendar#event",
+      "etag": "\"3449545354238000\"",
+      "id": "37qm6gvu7efab1ba8qfo2n6nts_20241010T133000Z",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MzdxbTZndnU3ZWZhYjFiYThxZm8ybjZudHNfMjAyNDEwMTBUMTMzMDAwWiBjXzdjMmQ5MTNkMmI0MDdjOWUzYTYxZjRjOWE0MDE4OTQ4ZmVlZTRkNjFkMDI3ZTM3NTBhNmRlMWEzYzdjM2MxNDZAZw",
+      "created": "2024-08-23T19:21:09.000Z",
+      "updated": "2024-08-27T15:31:17.119Z",
+      "summary": "L12: ASM Program 1 - Basics",
+      "creator": {
+       "email": "annaad@bu.edu"
+      },
+      "organizer": {
+       "email": "c_7c2d913d2b407c9e3a61f4c9a4018948feee4d61d027e3750a6de1a3c7c3c146@group.calendar.google.com",
+       "displayName": "CS210",
+       "self": true
+      },
+      "start": {
+       "dateTime": "2024-10-10T09:30:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "end": {
+       "dateTime": "2024-10-10T10:45:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "recurringEventId": "37qm6gvu7efab1ba8qfo2n6nts",
+      "originalStartTime": {
+       "dateTime": "2024-10-10T09:30:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "iCalUID": "37qm6gvu7efab1ba8qfo2n6nts@google.com",
+      "sequence": 0,
+      "reminders": {
+       "useDefault": true
+      },
+      "eventType": "default"
+     },
+     {
+      "kind": "calendar#event",
+      "etag": "\"3449545354238000\"",
+      "id": "37qm6gvu7efab1ba8qfo2n6nts_20241015T133000Z",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MzdxbTZndnU3ZWZhYjFiYThxZm8ybjZudHNfMjAyNDEwMTVUMTMzMDAwWiBjXzdjMmQ5MTNkMmI0MDdjOWUzYTYxZjRjOWE0MDE4OTQ4ZmVlZTRkNjFkMDI3ZTM3NTBhNmRlMWEzYzdjM2MxNDZAZw",
+      "created": "2024-08-23T19:21:09.000Z",
+      "updated": "2024-08-27T15:31:17.119Z",
+      "summary": "L13: ASM  Functions and Stack",
+      "creator": {
+       "email": "annaad@bu.edu"
+      },
+      "organizer": {
+       "email": "c_7c2d913d2b407c9e3a61f4c9a4018948feee4d61d027e3750a6de1a3c7c3c146@group.calendar.google.com",
+       "displayName": "CS210",
+       "self": true
+      },
+      "start": {
+       "dateTime": "2024-10-17T09:30:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "end": {
+       "dateTime": "2024-10-17T10:45:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "recurringEventId": "37qm6gvu7efab1ba8qfo2n6nts",
+      "originalStartTime": {
+       "dateTime": "2024-10-15T09:30:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "iCalUID": "37qm6gvu7efab1ba8qfo2n6nts@google.com",
+      "sequence": 1,
+      "reminders": {
+       "useDefault": true
+      },
+      "eventType": "default"
+     },
+     {
+      "kind": "calendar#event",
+      "etag": "\"3449545354238000\"",
+      "id": "37qm6gvu7efab1ba8qfo2n6nts_20241017T133000Z",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MzdxbTZndnU3ZWZhYjFiYThxZm8ybjZudHNfMjAyNDEwMTdUMTMzMDAwWiBjXzdjMmQ5MTNkMmI0MDdjOWUzYTYxZjRjOWE0MDE4OTQ4ZmVlZTRkNjFkMDI3ZTM3NTBhNmRlMWEzYzdjM2MxNDZAZw",
+      "created": "2024-08-23T19:21:09.000Z",
+      "updated": "2024-08-27T15:31:17.119Z",
+      "summary": "L14: Code as data, data structures, IO",
+      "creator": {
+       "email": "annaad@bu.edu"
+      },
+      "organizer": {
+       "email": "c_7c2d913d2b407c9e3a61f4c9a4018948feee4d61d027e3750a6de1a3c7c3c146@group.calendar.google.com",
+       "displayName": "CS210",
+       "self": true
+      },
+      "start": {
+       "dateTime": "2024-10-22T09:30:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "end": {
+       "dateTime": "2024-10-22T10:45:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "recurringEventId": "37qm6gvu7efab1ba8qfo2n6nts",
+      "originalStartTime": {
+       "dateTime": "2024-10-17T09:30:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "iCalUID": "37qm6gvu7efab1ba8qfo2n6nts@google.com",
+      "sequence": 1,
+      "reminders": {
+       "useDefault": true
+      },
+      "eventType": "default"
+     },
+     {
+      "kind": "calendar#event",
+      "etag": "\"3449545354238000\"",
+      "id": "37qm6gvu7efab1ba8qfo2n6nts_20241022T133000Z",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MzdxbTZndnU3ZWZhYjFiYThxZm8ybjZudHNfMjAyNDEwMjJUMTMzMDAwWiBjXzdjMmQ5MTNkMmI0MDdjOWUzYTYxZjRjOWE0MDE4OTQ4ZmVlZTRkNjFkMDI3ZTM3NTBhNmRlMWEzYzdjM2MxNDZAZw",
+      "created": "2024-08-23T19:21:09.000Z",
+      "updated": "2024-08-27T15:31:17.119Z",
+      "summary": "L15:Assembly to C basics",
+      "creator": {
+       "email": "annaad@bu.edu"
+      },
+      "organizer": {
+       "email": "c_7c2d913d2b407c9e3a61f4c9a4018948feee4d61d027e3750a6de1a3c7c3c146@group.calendar.google.com",
+       "displayName": "CS210",
+       "self": true
+      },
+      "start": {
+       "dateTime": "2024-10-24T09:30:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "end": {
+       "dateTime": "2024-10-24T10:45:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "recurringEventId": "37qm6gvu7efab1ba8qfo2n6nts",
+      "originalStartTime": {
+       "dateTime": "2024-10-22T09:30:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "iCalUID": "37qm6gvu7efab1ba8qfo2n6nts@google.com",
+      "sequence": 1,
+      "reminders": {
+       "useDefault": true
+      },
+      "eventType": "default"
+     },
+     {
+      "kind": "calendar#event",
+      "etag": "\"3449545354238000\"",
+      "id": "37qm6gvu7efab1ba8qfo2n6nts_20241024T133000Z",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MzdxbTZndnU3ZWZhYjFiYThxZm8ybjZudHNfMjAyNDEwMjRUMTMzMDAwWiBjXzdjMmQ5MTNkMmI0MDdjOWUzYTYxZjRjOWE0MDE4OTQ4ZmVlZTRkNjFkMDI3ZTM3NTBhNmRlMWEzYzdjM2MxNDZAZw",
+      "created": "2024-08-23T19:21:09.000Z",
+      "updated": "2024-08-27T15:31:17.119Z",
+      "summary": "L16: C basics- data types, syntax, etc",
+      "creator": {
+       "email": "annaad@bu.edu"
+      },
+      "organizer": {
+       "email": "c_7c2d913d2b407c9e3a61f4c9a4018948feee4d61d027e3750a6de1a3c7c3c146@group.calendar.google.com",
+       "displayName": "CS210",
+       "self": true
+      },
+      "start": {
+       "dateTime": "2024-10-29T09:30:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "end": {
+       "dateTime": "2024-10-29T10:45:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "recurringEventId": "37qm6gvu7efab1ba8qfo2n6nts",
+      "originalStartTime": {
+       "dateTime": "2024-10-24T09:30:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "iCalUID": "37qm6gvu7efab1ba8qfo2n6nts@google.com",
+      "sequence": 1,
+      "reminders": {
+       "useDefault": true
+      },
+      "eventType": "default"
+     },
+     {
+      "kind": "calendar#event",
+      "etag": "\"3449545354238000\"",
+      "id": "37qm6gvu7efab1ba8qfo2n6nts_20241029T133000Z",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MzdxbTZndnU3ZWZhYjFiYThxZm8ybjZudHNfMjAyNDEwMjlUMTMzMDAwWiBjXzdjMmQ5MTNkMmI0MDdjOWUzYTYxZjRjOWE0MDE4OTQ4ZmVlZTRkNjFkMDI3ZTM3NTBhNmRlMWEzYzdjM2MxNDZAZw",
+      "created": "2024-08-23T19:21:09.000Z",
+      "updated": "2024-08-27T15:31:17.119Z",
+      "summary": "L17: C pointers",
+      "creator": {
+       "email": "annaad@bu.edu"
+      },
+      "organizer": {
+       "email": "c_7c2d913d2b407c9e3a61f4c9a4018948feee4d61d027e3750a6de1a3c7c3c146@group.calendar.google.com",
+       "displayName": "CS210",
+       "self": true
+      },
+      "start": {
+       "dateTime": "2024-10-31T09:30:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "end": {
+       "dateTime": "2024-10-31T10:45:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "recurringEventId": "37qm6gvu7efab1ba8qfo2n6nts",
+      "originalStartTime": {
+       "dateTime": "2024-10-29T09:30:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "iCalUID": "37qm6gvu7efab1ba8qfo2n6nts@google.com",
+      "sequence": 1,
+      "reminders": {
+       "useDefault": true
+      },
+      "eventType": "default"
+     },
+     {
+      "kind": "calendar#event",
+      "etag": "\"3449545354238000\"",
+      "id": "37qm6gvu7efab1ba8qfo2n6nts_20241031T133000Z",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MzdxbTZndnU3ZWZhYjFiYThxZm8ybjZudHNfMjAyNDEwMzFUMTMzMDAwWiBjXzdjMmQ5MTNkMmI0MDdjOWUzYTYxZjRjOWE0MDE4OTQ4ZmVlZTRkNjFkMDI3ZTM3NTBhNmRlMWEzYzdjM2MxNDZAZw",
+      "created": "2024-08-23T19:21:09.000Z",
+      "updated": "2024-08-27T15:31:17.119Z",
+      "summary": "L18: C Malloc",
+      "creator": {
+       "email": "annaad@bu.edu"
+      },
+      "organizer": {
+       "email": "c_7c2d913d2b407c9e3a61f4c9a4018948feee4d61d027e3750a6de1a3c7c3c146@group.calendar.google.com",
+       "displayName": "CS210",
+       "self": true
+      },
+      "start": {
+       "dateTime": "2024-11-05T09:30:00-05:00",
+       "timeZone": "America/New_York"
+      },
+      "end": {
+       "dateTime": "2024-11-05T10:45:00-05:00",
+       "timeZone": "America/New_York"
+      },
+      "recurringEventId": "37qm6gvu7efab1ba8qfo2n6nts",
+      "originalStartTime": {
+       "dateTime": "2024-10-31T09:30:00-04:00",
+       "timeZone": "America/New_York"
+      },
+      "iCalUID": "37qm6gvu7efab1ba8qfo2n6nts@google.com",
+      "sequence": 1,
+      "reminders": {
+       "useDefault": true
+      },
+      "eventType": "default"
+     },
+     {
+      "kind": "calendar#event",
+      "etag": "\"3449545354238000\"",
+      "id": "37qm6gvu7efab1ba8qfo2n6nts_20241105T143000Z",
+      "status": "cancelled",
+      "recurringEventId": "37qm6gvu7efab1ba8qfo2n6nts",
+      "originalStartTime": {
+       "dateTime": "2024-11-05T09:30:00-05:00",
+       "timeZone": "America/New_York"
+      }
+     },
+     {
+      "kind": "calendar#event",
+      "etag": "\"3449545354238000\"",
+      "id": "37qm6gvu7efab1ba8qfo2n6nts_20241107T143000Z",
+      "status": "cancelled",
+      "recurringEventId": "37qm6gvu7efab1ba8qfo2n6nts",
+      "originalStartTime": {
+       "dateTime": "2024-11-07T09:30:00-05:00",
+       "timeZone": "America/New_York"
+      }
+     },
+     {
+      "kind": "calendar#event",
+      "etag": "\"3449545354238000\"",
+      "id": "37qm6gvu7efab1ba8qfo2n6nts_20241112T143000Z",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MzdxbTZndnU3ZWZhYjFiYThxZm8ybjZudHNfMjAyNDExMTJUMTQzMDAwWiBjXzdjMmQ5MTNkMmI0MDdjOWUzYTYxZjRjOWE0MDE4OTQ4ZmVlZTRkNjFkMDI3ZTM3NTBhNmRlMWEzYzdjM2MxNDZAZw",
+      "created": "2024-08-23T19:21:09.000Z",
+      "updated": "2024-08-27T15:31:17.119Z",
+      "summary": "L20: C Arrays and Linked Lists",
+      "creator": {
+       "email": "annaad@bu.edu"
+      },
+      "organizer": {
+       "email": "c_7c2d913d2b407c9e3a61f4c9a4018948feee4d61d027e3750a6de1a3c7c3c146@group.calendar.google.com",
+       "displayName": "CS210",
+       "self": true
+      },
+      "start": {
+       "dateTime": "2024-11-12T09:30:00-05:00",
+       "timeZone": "America/New_York"
+      },
+      "end": {
+       "dateTime": "2024-11-12T10:45:00-05:00",
+       "timeZone": "America/New_York"
+      },
+      "recurringEventId": "37qm6gvu7efab1ba8qfo2n6nts",
+      "originalStartTime": {
+       "dateTime": "2024-11-12T09:30:00-05:00",
+       "timeZone": "America/New_York"
+      },
+      "iCalUID": "37qm6gvu7efab1ba8qfo2n6nts@google.com",
+      "sequence": 0,
+      "reminders": {
+       "useDefault": true
+      },
+      "eventType": "default"
+     },
+     {
+      "kind": "calendar#event",
+      "etag": "\"3449545354238000\"",
+      "id": "37qm6gvu7efab1ba8qfo2n6nts_20241114T143000Z",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MzdxbTZndnU3ZWZhYjFiYThxZm8ybjZudHNfMjAyNDExMTRUMTQzMDAwWiBjXzdjMmQ5MTNkMmI0MDdjOWUzYTYxZjRjOWE0MDE4OTQ4ZmVlZTRkNjFkMDI3ZTM3NTBhNmRlMWEzYzdjM2MxNDZAZw",
+      "created": "2024-08-23T19:21:09.000Z",
+      "updated": "2024-08-27T15:31:17.119Z",
+      "summary": "L21: Intro to Performance and Pipelining",
+      "creator": {
+       "email": "annaad@bu.edu"
+      },
+      "organizer": {
+       "email": "c_7c2d913d2b407c9e3a61f4c9a4018948feee4d61d027e3750a6de1a3c7c3c146@group.calendar.google.com",
+       "displayName": "CS210",
+       "self": true
+      },
+      "start": {
+       "dateTime": "2024-11-14T09:30:00-05:00",
+       "timeZone": "America/New_York"
+      },
+      "end": {
+       "dateTime": "2024-11-14T10:45:00-05:00",
+       "timeZone": "America/New_York"
+      },
+      "recurringEventId": "37qm6gvu7efab1ba8qfo2n6nts",
+      "originalStartTime": {
+       "dateTime": "2024-11-14T09:30:00-05:00",
+       "timeZone": "America/New_York"
+      },
+      "iCalUID": "37qm6gvu7efab1ba8qfo2n6nts@google.com",
+      "sequence": 0,
+      "reminders": {
+       "useDefault": true
+      },
+      "eventType": "default"
+     },
+     {
+      "kind": "calendar#event",
+      "etag": "\"3449545354238000\"",
+      "id": "37qm6gvu7efab1ba8qfo2n6nts_20241119T143000Z",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MzdxbTZndnU3ZWZhYjFiYThxZm8ybjZudHNfMjAyNDExMTlUMTQzMDAwWiBjXzdjMmQ5MTNkMmI0MDdjOWUzYTYxZjRjOWE0MDE4OTQ4ZmVlZTRkNjFkMDI3ZTM3NTBhNmRlMWEzYzdjM2MxNDZAZw",
+      "created": "2024-08-23T19:21:09.000Z",
+      "updated": "2024-08-27T15:31:17.119Z",
+      "summary": "L22: Locality and Caching",
+      "creator": {
+       "email": "annaad@bu.edu"
+      },
+      "organizer": {
+       "email": "c_7c2d913d2b407c9e3a61f4c9a4018948feee4d61d027e3750a6de1a3c7c3c146@group.calendar.google.com",
+       "displayName": "CS210",
+       "self": true
+      },
+      "start": {
+       "dateTime": "2024-11-19T09:30:00-05:00",
+       "timeZone": "America/New_York"
+      },
+      "end": {
+       "dateTime": "2024-11-19T10:45:00-05:00",
+       "timeZone": "America/New_York"
+      },
+      "recurringEventId": "37qm6gvu7efab1ba8qfo2n6nts",
+      "originalStartTime": {
+       "dateTime": "2024-11-19T09:30:00-05:00",
+       "timeZone": "America/New_York"
+      },
+      "iCalUID": "37qm6gvu7efab1ba8qfo2n6nts@google.com",
+      "sequence": 0,
+      "reminders": {
+       "useDefault": true
+      },
+      "eventType": "default"
+     },
+     {
+      "kind": "calendar#event",
+      "etag": "\"3449545354238000\"",
+      "id": "37qm6gvu7efab1ba8qfo2n6nts_20241121T143000Z",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MzdxbTZndnU3ZWZhYjFiYThxZm8ybjZudHNfMjAyNDExMjFUMTQzMDAwWiBjXzdjMmQ5MTNkMmI0MDdjOWUzYTYxZjRjOWE0MDE4OTQ4ZmVlZTRkNjFkMDI3ZTM3NTBhNmRlMWEzYzdjM2MxNDZAZw",
+      "created": "2024-08-23T19:21:09.000Z",
+      "updated": "2024-08-27T15:31:17.119Z",
+      "summary": "L23: Cache Coherence",
+      "creator": {
+       "email": "annaad@bu.edu"
+      },
+      "organizer": {
+       "email": "c_7c2d913d2b407c9e3a61f4c9a4018948feee4d61d027e3750a6de1a3c7c3c146@group.calendar.google.com",
+       "displayName": "CS210",
+       "self": true
+      },
+      "start": {
+       "dateTime": "2024-11-21T09:30:00-05:00",
+       "timeZone": "America/New_York"
+      },
+      "end": {
+       "dateTime": "2024-11-21T10:45:00-05:00",
+       "timeZone": "America/New_York"
+      },
+      "recurringEventId": "37qm6gvu7efab1ba8qfo2n6nts",
+      "originalStartTime": {
+       "dateTime": "2024-11-21T09:30:00-05:00",
+       "timeZone": "America/New_York"
+      },
+      "iCalUID": "37qm6gvu7efab1ba8qfo2n6nts@google.com",
+      "sequence": 0,
+      "reminders": {
+       "useDefault": true
+      },
+      "eventType": "default"
+     },
+     {
+      "kind": "calendar#event",
+      "etag": "\"3449545354238000\"",
+      "id": "37qm6gvu7efab1ba8qfo2n6nts_20241126T143000Z",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MzdxbTZndnU3ZWZhYjFiYThxZm8ybjZudHNfMjAyNDExMjZUMTQzMDAwWiBjXzdjMmQ5MTNkMmI0MDdjOWUzYTYxZjRjOWE0MDE4OTQ4ZmVlZTRkNjFkMDI3ZTM3NTBhNmRlMWEzYzdjM2MxNDZAZw",
+      "created": "2024-08-23T19:21:09.000Z",
+      "updated": "2024-08-27T15:31:17.119Z",
+      "summary": "L24: OS Virtual Memory",
+      "creator": {
+       "email": "annaad@bu.edu"
+      },
+      "organizer": {
+       "email": "c_7c2d913d2b407c9e3a61f4c9a4018948feee4d61d027e3750a6de1a3c7c3c146@group.calendar.google.com",
+       "displayName": "CS210",
+       "self": true
+      },
+      "start": {
+       "dateTime": "2024-11-26T09:30:00-05:00",
+       "timeZone": "America/New_York"
+      },
+      "end": {
+       "dateTime": "2024-11-26T10:45:00-05:00",
+       "timeZone": "America/New_York"
+      },
+      "recurringEventId": "37qm6gvu7efab1ba8qfo2n6nts",
+      "originalStartTime": {
+       "dateTime": "2024-11-26T09:30:00-05:00",
+       "timeZone": "America/New_York"
+      },
+      "iCalUID": "37qm6gvu7efab1ba8qfo2n6nts@google.com",
+      "sequence": 0,
+      "reminders": {
+       "useDefault": true
+      },
+      "eventType": "default"
+     },
+     {
+      "kind": "calendar#event",
+      "etag": "\"3449545354238000\"",
+      "id": "37qm6gvu7efab1ba8qfo2n6nts_20241128T143000Z",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MzdxbTZndnU3ZWZhYjFiYThxZm8ybjZudHNfMjAyNDExMjhUMTQzMDAwWiBjXzdjMmQ5MTNkMmI0MDdjOWUzYTYxZjRjOWE0MDE4OTQ4ZmVlZTRkNjFkMDI3ZTM3NTBhNmRlMWEzYzdjM2MxNDZAZw",
+      "created": "2024-08-23T19:21:09.000Z",
+      "updated": "2024-08-27T15:31:17.119Z",
+      "summary": "L25: OS Paging",
+      "creator": {
+       "email": "annaad@bu.edu"
+      },
+      "organizer": {
+       "email": "c_7c2d913d2b407c9e3a61f4c9a4018948feee4d61d027e3750a6de1a3c7c3c146@group.calendar.google.com",
+       "displayName": "CS210",
+       "self": true
+      },
+      "start": {
+       "dateTime": "2024-12-03T09:30:00-05:00",
+       "timeZone": "America/New_York"
+      },
+      "end": {
+       "dateTime": "2024-12-03T10:45:00-05:00",
+       "timeZone": "America/New_York"
+      },
+      "recurringEventId": "37qm6gvu7efab1ba8qfo2n6nts",
+      "originalStartTime": {
+       "dateTime": "2024-11-28T09:30:00-05:00",
+       "timeZone": "America/New_York"
+      },
+      "iCalUID": "37qm6gvu7efab1ba8qfo2n6nts@google.com",
+      "sequence": 2,
+      "reminders": {
+       "useDefault": true
+      },
+      "eventType": "default"
+     },
+     {
+      "kind": "calendar#event",
+      "etag": "\"3449545354238000\"",
+      "id": "37qm6gvu7efab1ba8qfo2n6nts_20241203T143000Z",
+      "status": "cancelled",
+      "recurringEventId": "37qm6gvu7efab1ba8qfo2n6nts",
+      "originalStartTime": {
+       "dateTime": "2024-12-03T09:30:00-05:00",
+       "timeZone": "America/New_York"
+      }
+     },
+     {
+      "kind": "calendar#event",
+      "etag": "\"3449545354238000\"",
+      "id": "37qm6gvu7efab1ba8qfo2n6nts_20241205T143000Z",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MzdxbTZndnU3ZWZhYjFiYThxZm8ybjZudHNfMjAyNDEyMDVUMTQzMDAwWiBjXzdjMmQ5MTNkMmI0MDdjOWUzYTYxZjRjOWE0MDE4OTQ4ZmVlZTRkNjFkMDI3ZTM3NTBhNmRlMWEzYzdjM2MxNDZAZw",
+      "created": "2024-08-23T19:21:09.000Z",
+      "updated": "2024-08-27T15:31:17.119Z",
+      "summary": "L26: Security",
+      "creator": {
+       "email": "annaad@bu.edu"
+      },
+      "organizer": {
+       "email": "c_7c2d913d2b407c9e3a61f4c9a4018948feee4d61d027e3750a6de1a3c7c3c146@group.calendar.google.com",
+       "displayName": "CS210",
+       "self": true
+      },
+      "start": {
+       "dateTime": "2024-12-05T09:30:00-05:00",
+       "timeZone": "America/New_York"
+      },
+      "end": {
+       "dateTime": "2024-12-05T10:45:00-05:00",
+       "timeZone": "America/New_York"
+      },
+      "recurringEventId": "37qm6gvu7efab1ba8qfo2n6nts",
+      "originalStartTime": {
+       "dateTime": "2024-12-05T09:30:00-05:00",
+       "timeZone": "America/New_York"
+      },
+      "iCalUID": "37qm6gvu7efab1ba8qfo2n6nts@google.com",
+      "sequence": 0,
+      "reminders": {
+       "useDefault": true
+      },
+      "eventType": "default"
+     },
+     {
+      "kind": "calendar#event",
+      "etag": "\"3449545517204000\"",
+      "id": "37qm6gvu7efab1ba8qfo2n6nts_20241210T143000Z",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MzdxbTZndnU3ZWZhYjFiYThxZm8ybjZudHNfMjAyNDEyMTBUMTQzMDAwWiBjXzdjMmQ5MTNkMmI0MDdjOWUzYTYxZjRjOWE0MDE4OTQ4ZmVlZTRkNjFkMDI3ZTM3NTBhNmRlMWEzYzdjM2MxNDZAZw",
+      "created": "2024-08-23T19:21:09.000Z",
+      "updated": "2024-08-27T15:32:38.602Z",
+      "summary": "L27: Advanced Topics + Wrap Up",
+      "creator": {
+       "email": "annaad@bu.edu"
+      },
+      "organizer": {
+       "email": "c_7c2d913d2b407c9e3a61f4c9a4018948feee4d61d027e3750a6de1a3c7c3c146@group.calendar.google.com",
+       "displayName": "CS210",
+       "self": true
+      },
+      "start": {
+       "dateTime": "2024-12-10T09:30:00-05:00",
+       "timeZone": "America/New_York"
+      },
+      "end": {
+       "dateTime": "2024-12-10T10:45:00-05:00",
+       "timeZone": "America/New_York"
+      },
+      "recurringEventId": "37qm6gvu7efab1ba8qfo2n6nts",
+      "originalStartTime": {
+       "dateTime": "2024-12-10T09:30:00-05:00",
+       "timeZone": "America/New_York"
+      },
+      "iCalUID": "37qm6gvu7efab1ba8qfo2n6nts@google.com",
+      "sequence": 0,
+      "reminders": {
+       "useDefault": true
+      },
+      "eventType": "default"
+     }
+    ]
+   }
+   
